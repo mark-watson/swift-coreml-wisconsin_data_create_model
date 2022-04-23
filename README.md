@@ -1,5 +1,7 @@
 # wisconsin_data_create_model
 
+## NOTE: as of April 2022, the CreateML class MLDataTable - the chapter for this example is removed until this problem is resolved. Web search has shown other people having htis problem.
+
 There are two commented out lines at the bottom of the file main.swift:
 
      // create_model()
