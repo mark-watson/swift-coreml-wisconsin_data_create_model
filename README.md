@@ -1,3 +1,12 @@
+# Content for this repository has moved to:
+
+[https://github.com/mark-watson/SwiftAI-book](https://github.com/mark-watson/SwiftAI-book)
+
+This new repository contains both the manuscript and source code examples for my Swift AI book. This book can be read for free online at:
+
+[https://leanpub.com/read/SwiftAI](https://leanpub.com/read/SwiftAI)
+
+
 # wisconsin_data_create_model
 
 ## NOTE: as of April 2022, the CreateML class MLDataTable - the chapter for this example is removed until this problem is resolved. Web search has shown other people having htis problem.
